@@ -14,3 +14,5 @@ var tomatoSauceIngredients = [
   'basil',
   'oregano'
 ]
+
+var myArray = [element0, element1, elementN];
