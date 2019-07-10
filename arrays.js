@@ -5,6 +5,6 @@ var chocolateBars = [
   'skittles',
   ]
   
-  addElementToBeginningOfArray
-  
-  destructivelyAddElementToEndOfArray
+addElementToBeginningOfArray = chocolateBars.unshift("elementA")
+
+destructivelyAddElementToBeginningOfArray = chocolateBars.shift('snickers')
