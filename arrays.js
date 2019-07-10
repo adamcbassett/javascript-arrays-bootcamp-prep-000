@@ -6,3 +6,5 @@ var chocolateBars = [
   ]
   
   addElementToBeginningOfArray
+  
+  destructivelyAddElementToEndOfArray
